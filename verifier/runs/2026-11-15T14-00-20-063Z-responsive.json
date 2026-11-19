@@ -1,0 +1,19 @@
+{
+  "startedAt": "2026-11-15T14:00:20.063Z",
+  "command": "node verifier/v1/responsive.cjs",
+  "checks": {},
+  "assertions": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [
+    {
+      "label": "desktop",
+      "url": "http://127.0.0.1:4173/?seed=41",
+      "error": "net::ERR_CONNECTION_REFUSED"
+    }
+  ],
+  "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?seed=41\nCall log:\n  - navigating to \"http://127.0.0.1:4173/?seed=41\", waiting until \"networkidle\"\n\n    at ready (/mnt/agents/output/app/verifier/v1/responsive.cjs:36:14)\n    at run (/mnt/agents/output/app/verifier/v1/responsive.cjs:49:11)\n    at async /mnt/agents/output/app/verifier/v1/responsive.cjs:138:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T14:00:20.942Z",
+  "durationMs": 879
+}

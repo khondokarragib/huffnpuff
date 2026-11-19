@@ -1,0 +1,184 @@
+{
+  "startedAt": "2026-11-15T14:32:22.029730Z",
+  "finishedAt": "2026-11-15T14:32:23.264024Z",
+  "command": "node --check (29 source/verifier files); git diff --check -- src; latest-record and source-frame audit",
+  "exitCode": 0,
+  "staticChecks": {
+    "javascriptFiles": 29,
+    "syntaxFailures": [],
+    "scopedWhitespaceOrConflictMarkers": [],
+    "gitProductionWhitespace": "pass",
+    "productionSourceDiff": "empty"
+  },
+  "latestRecords": [
+    {
+      "check": "outcome random",
+      "record": "2026-11-15T13-51-47-243Z-outcome-random.json",
+      "pass": true
+    },
+    {
+      "check": "outcome win",
+      "record": "2026-11-15T14-01-51-291Z-outcome-win.json",
+      "pass": true
+    },
+    {
+      "check": "outcome hats",
+      "record": "2026-11-15T14-01-56-634Z-outcome-hats.json",
+      "pass": true
+    },
+    {
+      "check": "outcome hazard",
+      "record": "2026-11-15T14-02-01-548Z-outcome-hazard.json",
+      "pass": true
+    },
+    {
+      "check": "outcome mystery",
+      "record": "2026-11-15T14-02-14-056Z-outcome-mystery.json",
+      "pass": true
+    },
+    {
+      "check": "outcome girder",
+      "record": "2026-11-15T14-04-26-396Z-outcome-girder.json",
+      "pass": true
+    },
+    {
+      "check": "outcome feature",
+      "record": "2026-11-15T14-07-06-297Z-outcome-feature.json",
+      "pass": true
+    },
+    {
+      "check": "outcome super",
+      "record": "2026-11-15T14-09-53-599Z-outcome-super.json",
+      "pass": true
+    },
+    {
+      "check": "outcome busy",
+      "record": "2026-11-15T14-13-12-252Z-outcome-busy.json",
+      "pass": true
+    },
+    {
+      "check": "presentation base",
+      "record": "2026-11-15T13-35-15-675Z-presentation-base.json",
+      "pass": true
+    },
+    {
+      "check": "presentation tally",
+      "record": "2026-11-15T13-35-47-739Z-presentation-tally.json",
+      "pass": true
+    },
+    {
+      "check": "presentation bigwin",
+      "record": "2026-11-15T13-36-16-128Z-presentation-bigwin.json",
+      "pass": true
+    },
+    {
+      "check": "presentation bigwin-max",
+      "record": "2026-11-15T13-36-36-822Z-presentation-bigwin-max.json",
+      "pass": true
+    },
+    {
+      "check": "presentation mystery",
+      "record": "2026-11-15T13-37-28-302Z-presentation-mystery.json",
+      "pass": true
+    },
+    {
+      "check": "presentation wolf",
+      "record": "2026-11-15T13-39-57-407Z-presentation-wolf.json",
+      "pass": true
+    },
+    {
+      "check": "responsive",
+      "record": "2026-11-15T14-00-39-328Z-responsive.json",
+      "pass": true
+    },
+    {
+      "check": "footer desktop",
+      "record": "2026-11-15T13-28-31-818Z-footer-v3-desktop.json",
+      "pass": true
+    },
+    {
+      "check": "footer mobile",
+      "record": "2026-11-15T13-28-44-053Z-footer-v3-mobile.json",
+      "pass": true
+    },
+    {
+      "check": "sound rows",
+      "record": "2026-11-15T14-15-44-266Z-sound-v2-rows.json",
+      "pass": true
+    },
+    {
+      "check": "sound frame-all",
+      "record": "2026-11-15T14-16-07-108Z-sound-v2-frame-all.json",
+      "pass": true
+    },
+    {
+      "check": "sound house-straw",
+      "record": "2026-11-15T14-16-24-602Z-sound-v2-house-straw.json",
+      "pass": true
+    },
+    {
+      "check": "sound house-stick",
+      "record": "2026-11-15T14-16-39-007Z-sound-v2-house-stick.json",
+      "pass": true
+    },
+    {
+      "check": "sound house-brick",
+      "record": "2026-11-15T14-16-53-471Z-sound-v2-house-brick.json",
+      "pass": true
+    },
+    {
+      "check": "sound saw-super",
+      "record": "2026-11-15T14-17-07-849Z-sound-v2-saw-super.json",
+      "pass": true
+    },
+    {
+      "check": "sound bigwin-max",
+      "record": "2026-11-15T14-17-48-850Z-sound-v2-bigwin-max.json",
+      "pass": true
+    },
+    {
+      "check": "sound spin-hats",
+      "record": "2026-11-15T14-18-38-463Z-sound-v2-spin-hats.json",
+      "pass": true
+    },
+    {
+      "check": "sound wolf",
+      "record": "2026-11-15T14-18-57-326Z-sound-v2-wolf.json",
+      "pass": true
+    }
+  ],
+  "mathematics": {
+    "record": "2026-11-15T12-54-12-927Z-math-v2.json",
+    "status": "pass",
+    "ordinaryMeasuredRtpPercent": 92.09240399994599,
+    "ordinaryRounds": 5000000,
+    "ordinaryCi95Percent": [
+      90.86301248160731,
+      93.32179551828466
+    ],
+    "buyPassMeasuredRtpPercent": 92.1561111000246,
+    "buyPassRounds": 1000000,
+    "buyPassCi95Percent": [
+      91.76105659152135,
+      92.55116560852785
+    ],
+    "qualification": "Monte Carlo measurements of the local virtual-demo model; not certified theoretical RTP or recovered server mathematics."
+  },
+  "sourceComparison": {
+    "baseBackgroundAndJackpots": "pass; original source composition and measured meter containment retained",
+    "fullscreenTally": "pass; source hierarchy, viewport containment, alignment, and real dismissal retained",
+    "bigWin": "pass; source high-tier sequence and foreground composition retained; supplied $31.40 frame is a house-total reveal, not a high-tier reference",
+    "mystery": "pass; all originating-cell phases measured without drift",
+    "wolf": "pass; source desktop right-side transform and below-footer layering retained; portrait reference was not used as desktop coordinate evidence",
+    "footerDesktopAndPortrait": "pass; source landscape side-by-side meters and portrait stacked meters retained"
+  },
+  "additionalProductionMismatchEstablished": false,
+  "evidenceLimitations": [
+    "Original server reel strips, weights, feature frequencies and house-prize probabilities were not supplied.",
+    "Three-symbol Jack and Ten awards are absent from the supplied visible paytable evidence and remain unpaid rather than invented.",
+    "The confidence interval is a simulation uncertainty estimate, not a certification or proof of theoretical RTP.",
+    "The local seeded adapter is browser-side and is not server-authoritative or provably fair.",
+    "No directly comparable supplied high-tier desktop Big Win frame was available for pixel-coordinate comparison.",
+    "Passing targeted checks does not establish universal pixel identity or prove absence of every possible defect."
+  ]
+}

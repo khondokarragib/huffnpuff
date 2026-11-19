@@ -1,0 +1,181 @@
+coin_v02.webp
+size:2048,1024
+filter:Linear,Linear
+coin-side-round
+bounds:758,25,72,141
+rotate:90
+coin-side-straight
+bounds:758,14,9,141
+rotate:90
+coin_back
+bounds:1010,366,140,140
+offsets:10,10,160,160
+coin_front
+bounds:1262,712,140,140
+offsets:10,10,160,160
+coin_glow
+bounds:1262,854,158,158
+offsets:1,1,160,160
+coin_sparkle
+bounds:1262,592,112,118
+offsets:24,21,160,160
+coin_stroke
+bounds:758,99,154,154
+offsets:3,3,160,160
+freespin_counter
+bounds:914,129,124,82
+offsets:7,7,138,96
+rotate:90
+freespin_counter_glow
+bounds:1010,268,138,96
+mini_jackpot_text
+bounds:1564,860,87,70
+offsets:19,0,125,70
+minor_jackpot_text
+bounds:1152,381,125,70
+rotate:90
+particle_loop/Comp 1_00032
+bounds:1376,547,78,79
+offsets:12,14,100,100
+rotate:90
+particle_loop/Comp 1_00033
+bounds:1457,547,78,79
+offsets:12,14,100,100
+particle_loop/Comp 1_00034
+bounds:1537,546,78,80
+offsets:12,13,100,100
+particle_loop/Comp 1_00035
+bounds:1262,344,79,81
+offsets:12,13,100,100
+rotate:90
+particle_loop/Comp 1_00036
+bounds:914,49,78,82
+offsets:13,12,100,100
+rotate:90
+particle_loop/Comp 1_00037
+bounds:1422,791,79,82
+offsets:12,12,100,100
+rotate:90
+particle_loop/Comp 1_00038
+bounds:1739,933,79,84
+offsets:12,11,100,100
+rotate:90
+particle_loop/Comp 1_00039
+bounds:1262,425,81,83
+offsets:11,11,100,100
+particle_loop/Comp 1_00040
+bounds:1826,851,81,83
+offsets:11,11,100,100
+rotate:90
+particle_loop/Comp 1_00041
+bounds:1653,932,80,84
+offsets:11,10,100,100
+rotate:90
+particle_loop/Comp 1_00042
+bounds:1457,628,82,78
+offsets:10,10,100,100
+rotate:90
+particle_loop/Comp 1_00043
+bounds:1537,628,82,78
+offsets:10,10,100,100
+rotate:90
+particle_loop/Comp 1_00044
+bounds:1376,627,83,79
+offsets:10,10,100,100
+rotate:90
+particle_loop/Comp 1_00045
+bounds:1653,853,84,77
+offsets:9,12,100,100
+particle_loop/Comp 1_00046
+bounds:1825,934,85,78
+offsets:9,12,100,100
+particle_loop/Comp 1_00047
+bounds:1912,934,85,78
+offsets:9,12,100,100
+particle_loop/Comp 1_00048
+bounds:1739,853,85,78
+offsets:9,12,100,100
+particle_loop/Comp 1_00049
+bounds:1262,510,86,80
+offsets:8,11,100,100
+particle_loop/Comp 1_00050
+bounds:1564,932,87,80
+offsets:8,11,100,100
+particle_loop/Comp 1_00051
+bounds:1570,778,81,80
+offsets:8,11,100,100
+particle_loop/Comp 1_00052
+bounds:1911,851,82,81
+offsets:7,11,100,100
+particle_loop/Comp 1_00053
+bounds:1404,712,81,77
+offsets:7,13,100,100
+particle_loop/Comp 1_00054
+bounds:1487,712,81,77
+offsets:7,13,100,100
+particle_loop/Comp 1_00055
+bounds:1091,188,78,77
+offsets:10,13,100,100
+rotate:90
+particle_loop/Comp 1_00056
+bounds:1010,187,79,79
+offsets:10,12,100,100
+particle_loop/Comp 1_00057
+bounds:998,106,78,79
+offsets:11,12,100,100
+particle_loop/Comp 1_00058
+bounds:1904,770,79,80
+offsets:10,12,100,100
+rotate:90
+particle_loop/Comp 1_00059
+bounds:1737,771,80,81
+offsets:10,11,100,100
+rotate:90
+particle_loop/Comp 1_00060
+bounds:1653,771,80,82
+offsets:10,11,100,100
+rotate:90
+particle_loop/Comp 1_00061
+bounds:1820,770,79,82
+offsets:11,11,100,100
+rotate:90
+shine
+bounds:1224,383,36,123
+wheel/wheel/skeleton-wheel_fire_Orange_00
+bounds:2,761,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_01
+bounds:2,508,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_02
+bounds:254,761,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_03
+bounds:2,255,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_04
+bounds:254,508,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_05
+bounds:506,761,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_06
+bounds:2,2,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_07
+bounds:254,255,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_08
+bounds:506,508,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_09
+bounds:758,761,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_10
+bounds:254,2,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_11
+bounds:506,255,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_12
+bounds:758,508,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_13
+bounds:1010,761,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_14
+bounds:506,2,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_15
+bounds:758,255,250,251
+wheel/wheel/skeleton-wheel_fire_Orange_16
+bounds:1010,508,250,251
+wheel_coin_front
+bounds:1422,872,140,140
+offsets:10,10,160,160
+

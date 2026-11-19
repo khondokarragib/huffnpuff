@@ -1,0 +1,96 @@
+{
+  "startedAt": "2026-11-16T08:55:52.977Z",
+  "command": "node verifier/v4/controls.cjs short",
+  "mode": "short",
+  "checks": {
+    "controls": {
+      "viewport": {
+        "width": 728,
+        "height": 421
+      },
+      "controls": {
+        "spin": {
+          "x": 606.6666666666666,
+          "y": 165,
+          "width": 91,
+          "height": 91
+        },
+        "auto": {
+          "x": 630.3645833333333,
+          "y": 291.3045,
+          "width": 43.60416666666674,
+          "height": 43.60416666666663
+        },
+        "turbo": {
+          "x": 79.81287537537537,
+          "y": 342.49199999999996,
+          "width": 41.332582582582575,
+          "height": 41.70833333333337
+        },
+        "menu": {
+          "x": 15.166666666666668,
+          "y": 351.95408708708715,
+          "width": 37.91666666666666,
+          "height": 34.15915915915912
+        },
+        "buy": {
+          "x": 15.166666666666668,
+          "y": 306.27771428571424,
+          "width": 37.91666666666666,
+          "height": 28.630952380952408
+        },
+        "plus": {
+          "x": 672.4520833333333,
+          "y": 352.7295,
+          "width": 28.816666666666606,
+          "height": 28.81666666666672
+        },
+        "minus": {
+          "x": 603.0645833333333,
+          "y": 352.7295,
+          "width": 28.816666666666606,
+          "height": 28.81666666666672
+        },
+        "betBackdrop": {
+          "x": 594.34375,
+          "y": 350.07533333333333,
+          "width": 115.64583333333326,
+          "height": 34.125
+        },
+        "betIcon": {
+          "x": 639.275,
+          "y": 354.2461666666667,
+          "width": 25.783333333333303,
+          "height": 25.783333333333303
+        },
+        "footer": {
+          "x": 0,
+          "y": 390.267,
+          "width": 728,
+          "height": 30.732999999999997
+        }
+      },
+      "board": {
+        "x": 194.75485820895523,
+        "y": 15.366500000000002,
+        "width": 338.49028358208955,
+        "height": 390.267
+      }
+    }
+  },
+  "assertions": [
+    {
+      "name": "short-board-width-source-ratio",
+      "pass": false,
+      "actual": 338.49028358208955,
+      "expected": 385.84000000000003
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "Error: Acceptance check failed: short-board-width-source-ratio\n    at assertCheck (/mnt/agents/output/app/verifier/v4/controls.cjs:27:20)\n    at run (/mnt/agents/output/app/verifier/v4/controls.cjs:106:7)\n    at async /mnt/agents/output/app/verifier/v4/controls.cjs:149:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-16T08:55:57.767Z",
+  "durationMs": 4790
+}

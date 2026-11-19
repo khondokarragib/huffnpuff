@@ -1,0 +1,20 @@
+{
+  "startedAt": "2026-11-18T09:45:44.397Z",
+  "finishedAt": "2026-11-18T09:45:45.039Z",
+  "preview": "wolf",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?preview=states&test=sound-v2-wolf-1794995145031\nCall log:\n  - navigating to \"http://127.0.0.1:4173/?preview=states&test=sound-v2-wolf-1794995145031\", waiting until \"domcontentloaded\"\n\n    at /mnt/agents/output/app/verifier/v2/sound.cjs:101:16",
+  "errors": [],
+  "failedRequests": [
+    {
+      "url": "http://127.0.0.1:4173/?preview=states&test=sound-v2-wolf-1794995145031",
+      "error": "net::ERR_CONNECTION_REFUSED"
+    }
+  ],
+  "exitCode": 1
+}

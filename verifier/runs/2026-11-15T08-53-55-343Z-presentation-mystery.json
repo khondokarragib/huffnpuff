@@ -1,0 +1,37 @@
+{
+  "startedAt": "2026-11-15T08:53:55.343Z",
+  "command": "node verifier/v1/presentation.cjs mystery",
+  "mode": "mystery",
+  "checks": {
+    "mystery": {
+      "active": true,
+      "phase": "flip",
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellCenter": {
+        "x": 475.87147992351817,
+        "y": 475.9222434671766
+      },
+      "revealOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "expectedOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "drift": 0,
+      "parent": "BoardSymbolEffects"
+    }
+  },
+  "assertions": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "page.waitForFunction: Timeout 180000ms exceeded.\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:168:18)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:186:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T08:57:16.364Z",
+  "durationMs": 201021
+}

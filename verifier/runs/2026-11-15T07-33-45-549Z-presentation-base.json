@@ -1,0 +1,13 @@
+{
+  "startedAt": "2026-11-15T07:33:45.549Z",
+  "command": "node verifier/v1/presentation.cjs base",
+  "mode": "base",
+  "checks": {},
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "page.waitForFunction: Timeout 120000ms exceeded.\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:49:16)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:106:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T07:36:05.037Z",
+  "durationMs": 139488
+}

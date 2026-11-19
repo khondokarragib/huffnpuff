@@ -1,0 +1,48 @@
+{
+  "startedAt": "2026-11-15T16:44:45.029Z",
+  "command": "node verifier/v4/controls.cjs short",
+  "mode": "short",
+  "checks": {
+    "controls": {
+      "viewport": {
+        "width": 728,
+        "height": 421
+      },
+      "controls": {
+        "auto": true,
+        "turbo": true,
+        "plus": true,
+        "minus": true,
+        "buy": true,
+        "spin": true
+      },
+      "board": {
+        "x": 171.07999999999998,
+        "y": -11.929751434034443,
+        "width": 385.84000000000003,
+        "height": 444.8595028680689
+      }
+    }
+  },
+  "assertions": [
+    {
+      "name": "short-board-width-source-ratio",
+      "pass": true,
+      "actual": 385.84000000000003,
+      "expected": 385.84000000000003
+    },
+    {
+      "name": "short-board-x-centered",
+      "pass": true,
+      "actual": 171.07999999999998,
+      "expected": 171.07999999999998
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "TypeError: Cannot read properties of undefined (reading 'x')\n    at run (/mnt/agents/output/app/verifier/v4/controls.cjs:109:35)\n    at async /mnt/agents/output/app/verifier/v4/controls.cjs:149:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T16:44:50.432Z",
+  "durationMs": 5403
+}

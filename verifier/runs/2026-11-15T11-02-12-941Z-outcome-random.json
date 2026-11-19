@@ -1,0 +1,18 @@
+{
+  "startedAt": "2026-11-15T11:02:12.941Z",
+  "command": "node regression.cjs random",
+  "scenario": "random",
+  "checkpoints": [
+    {
+      "name": "failed",
+      "data": {
+        "error": "jackpot.value.scale.multiplyScalar is not a function"
+      }
+    }
+  ],
+  "errors": [
+    "TypeError: jackpot.value.scale.multiplyScalar is not a function\n    at SlotGame.fitJackpotValue (http://127.0.0.1:4173/src/game/slotGame.js:826:27)\n    at http://127.0.0.1:4173/src/game/slotGame.js:2484:12\n    at Array.forEach (<anonymous>)\n    at SlotGame.updateMeters (http://127.0.0.1:4173/src/game/slotGame.js:2481:19)\n    at new SlotGame (http://127.0.0.1:4173/src/game/slotGame.js:614:10)\n    at http://127.0.0.1:4173/src/game/boot.js:75:14",
+    "page.waitForFunction: Timeout 30000ms exceeded.\n    at /mnt/agents/output/reverse-engineering/tests/regression.cjs:37:16"
+  ],
+  "exitCode": 1
+}

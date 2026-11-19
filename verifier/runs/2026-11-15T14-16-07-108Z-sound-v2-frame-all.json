@@ -1,0 +1,49 @@
+{
+  "startedAt": "2026-11-15T14:16:07.108Z",
+  "finishedAt": "2026-11-15T14:16:19.341Z",
+  "preview": "frame-all",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "all-frame-construction-cues": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_strawborder_e.webm",
+      "at": 7534.400000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickborder_e.webm",
+      "at": 9037.800000000047,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickborder_e.webm",
+      "at": 10526.20000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

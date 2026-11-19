@@ -1,0 +1,99 @@
+{
+  "startedAt": "2026-11-15T12:15:05.082Z",
+  "finishedAt": "2026-11-15T12:15:25.019Z",
+  "preview": "rows",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "demolition-pig-cue": true,
+    "row-blast-background-cue": true,
+    "three-live-row-explosion-cues": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "demopig_new_1.webm",
+      "at": 10363.199999999953,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": "enter"
+    },
+    {
+      "type": "play",
+      "file": "flamepuff.webm",
+      "at": 13917.79999999993,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": "hold"
+    },
+    {
+      "type": "play",
+      "file": "demohitexpl.webm",
+      "at": 13918.599999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": "blast-2"
+    },
+    {
+      "type": "play",
+      "file": "demohitexpl.webm",
+      "at": 15018,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": "blast-1"
+    },
+    {
+      "type": "ended",
+      "file": "flamepuff.webm",
+      "at": 15690.099999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "demohitexpl.webm",
+      "at": 16126.29999999993,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": "blast-0"
+    },
+    {
+      "type": "ended",
+      "file": "demopig_new_1.webm",
+      "at": 16132.699999999953,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "demohitexpl.webm",
+      "at": 16259.79999999993,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "demohitexpl.webm",
+      "at": 17297.599999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "demohitexpl.webm",
+      "at": 18338,
+      "wolfStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

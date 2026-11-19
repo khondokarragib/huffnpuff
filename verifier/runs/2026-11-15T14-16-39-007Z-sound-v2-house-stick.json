@@ -1,0 +1,57 @@
+{
+  "startedAt": "2026-11-15T14:16:39.007Z",
+  "finishedAt": "2026-11-15T14:16:48.243Z",
+  "preview": "house-stick",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "house-appearance-cue": true,
+    "house-blow-cue": true,
+    "house-credit-cue": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 7292.90000000014,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 8118.200000000186,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 8445.700000000186,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 8561,
+      "wolfStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

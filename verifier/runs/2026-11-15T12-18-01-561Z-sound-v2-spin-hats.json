@@ -1,0 +1,128 @@
+{
+  "startedAt": "2026-11-15T12:18:01.560Z",
+  "finishedAt": "2026-11-15T12:18:09.919Z",
+  "preview": "spin-hats",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "live-per-reel-scatter-cue": true,
+    "yellow-hat-landing-cue": false,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "spin.webm",
+      "at": 5021.399999999907,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_reel_stop.webm",
+      "at": 6180.899999999907,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_hardhat_scatter_1.webm",
+      "at": 6180.899999999907,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "spin.webm",
+      "at": 6417.09999999986,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_reel_stop.webm",
+      "at": 6489,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_reel_stop.webm",
+      "at": 6758.59999999986,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_reel_stop.webm",
+      "at": 6941.399999999907,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_reel_stop.webm",
+      "at": 7001.5,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_reel_stop.webm",
+      "at": 7124.800000000047,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_reel_stop.webm",
+      "at": 7362.300000000047,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_reel_stop.webm",
+      "at": 7363,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_hardhat_scatter_1.webm",
+      "at": 7727.199999999953,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_reel_stop.webm",
+      "at": 7727.199999999953,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_reel_stop.webm",
+      "at": 7974.199999999953,
+      "wolfStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 1
+}

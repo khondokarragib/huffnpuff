@@ -1,0 +1,946 @@
+{
+  "startedAt": "2026-11-15T09:07:57.126Z",
+  "command": "node verifier/v1/presentation.cjs mystery",
+  "mode": "mystery",
+  "checks": {
+    "mystery": {
+      "active": true,
+      "phase": "flip",
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellCenter": {
+        "x": 475.87147992351817,
+        "y": 475.9222434671766
+      },
+      "revealOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "expectedOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "drift": 0,
+      "parent": "BoardSymbolEffects",
+      "cellVisible": false,
+      "settledSymbol": 12
+    },
+    "mysteryHistory": [
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18
+      }
+    ]
+  },
+  "assertions": [
+    {
+      "name": "mystery-flip-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-rolling-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-settled-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-cleaned-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-flip-0-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-0-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-1-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-1-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-2-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-2-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-3-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-3-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-4-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-4-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-5-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-5-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-6-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-6-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-7-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-7-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-8-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-8-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-9-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-9-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-10-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-10-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-11-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-11-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-12-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-12-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-13-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-13-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-14-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-14-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-15-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-15-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-16-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-16-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-17-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-17-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-hidden-originating-cell-0",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-1",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-2",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-3",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-4",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-5",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-6",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-7",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-8",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-9",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-10",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-11",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-restored-originating-cell-0",
+      "pass": false,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "Error: Acceptance check failed: mystery-restored-originating-cell-0\n    at assertCheck (/mnt/agents/output/app/verifier/v1/presentation.cjs:36:20)\n    at /mnt/agents/output/app/verifier/v1/presentation.cjs:190:9\n    at Array.forEach (<anonymous>)\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:189:89)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:223:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T09:08:59.401Z",
+  "durationMs": 62275
+}

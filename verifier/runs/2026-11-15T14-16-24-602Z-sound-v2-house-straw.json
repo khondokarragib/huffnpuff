@@ -1,0 +1,57 @@
+{
+  "startedAt": "2026-11-15T14:16:24.602Z",
+  "finishedAt": "2026-11-15T14:16:33.776Z",
+  "preview": "house-straw",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "house-appearance-cue": true,
+    "house-blow-cue": true,
+    "house-credit-cue": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 7236.800000000047,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 8090.600000000093,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 8401.199999999953,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 8673.600000000093,
+      "wolfStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

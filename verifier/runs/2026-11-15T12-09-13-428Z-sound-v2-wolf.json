@@ -1,0 +1,245 @@
+{
+  "startedAt": "2026-11-15T12:09:13.428Z",
+  "finishedAt": "2026-11-15T12:10:14.813Z",
+  "preview": "wolf",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "source-arrival-cue-plays": true,
+    "unused-jumpdown-variant-not-forced": true,
+    "wolf-music-starts-after-arrival-ended": false,
+    "all-three-source-blow-cues-play": true,
+    "resolution-cue-plays": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 34919.70000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 35224,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 35561.70000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 36478.5,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 36500.30000000005,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_jumpdown_complete.webm",
+      "at": 36717.40000000002,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 36928,
+      "wolfStage": "arrival"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowstraw_updated_2.webm",
+      "at": 38818.09999999998,
+      "wolfStage": "hold",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 41388.09999999998,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 41698.80000000005,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowstick_updated_2.webm",
+      "at": 42736,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 43486.40000000002,
+      "wolfStage": "blow-2-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowstraw_updated_2.webm",
+      "at": 44295.70000000007,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 46097.30000000005,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 46181.09999999998,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 46434.20000000007,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowbrick_updated_2.webm",
+      "at": 47469.20000000007,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowstick_updated_2.webm",
+      "at": 47991.59999999998,
+      "wolfStage": "blow-3-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 48190.30000000005,
+      "wolfStage": "blow-3-in"
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 50832.80000000005,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 51170.80000000005,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 51393.09999999998,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_resolution.webm",
+      "at": 52199.40000000002,
+      "wolfStage": "exit",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 52943.80000000005,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowbrick_updated_2.webm",
+      "at": 53808.5,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "play",
+      "file": "fx_freegames_banner.webm",
+      "at": 54179.5,
+      "wolfStage": "exit",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_resolution.webm",
+      "at": 55463.09999999998,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 57161.5,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_freegames_banner.webm",
+      "at": 57596.59999999998,
+      "wolfStage": "exit"
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 1
+}

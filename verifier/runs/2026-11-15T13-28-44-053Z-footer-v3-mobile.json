@@ -1,0 +1,140 @@
+{
+  "startedAt": "2026-11-15T13:28:44.053Z",
+  "command": "node verifier/v3/footer.cjs mobile",
+  "mode": "mobile",
+  "checks": {
+    "footer": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "balance": {
+        "text": "Balance\n$1,000.00",
+        "position": {
+          "x": 74.1,
+          "y": 811.295
+        },
+        "bounds": {
+          "x": 41.79113159179687,
+          "y": 794.295,
+          "width": 64.61773681640625,
+          "height": 34
+        },
+        "fontSize": 14.04
+      },
+      "win": {
+        "text": "Win\n$0.00",
+        "position": {
+          "x": 195,
+          "y": 811.295
+        },
+        "bounds": {
+          "x": 176.34556579589844,
+          "y": 794.295,
+          "width": 37.308868408203125,
+          "height": 34
+        },
+        "fontSize": 14.04
+      },
+      "bet": {
+        "text": "Bet\n$2.00",
+        "position": {
+          "x": 312,
+          "y": 811.295
+        },
+        "bounds": {
+          "x": 293.34556579589844,
+          "y": 794.295,
+          "width": 37.308868408203125,
+          "height": 34
+        },
+        "fontSize": 14.04
+      },
+      "boardCamera": {
+        "progress": 0,
+        "scale": 1,
+        "girderScale": 1,
+        "x": 195,
+        "y": 422,
+        "stage": "idle"
+      }
+    }
+  },
+  "assertions": [
+    {
+      "name": "mobile-balance-exact-text",
+      "pass": true,
+      "actual": "Balance\n$1,000.00",
+      "expected": "Balance\n$1,000.00"
+    },
+    {
+      "name": "mobile-win-exact-text",
+      "pass": true,
+      "actual": "Win\n$0.00",
+      "expected": "Win\n$0.00"
+    },
+    {
+      "name": "mobile-bet-exact-text",
+      "pass": true,
+      "actual": "Bet\n$2.00",
+      "expected": "Bet\n$2.00"
+    },
+    {
+      "name": "mobile-desktop-line-composition",
+      "pass": true,
+      "actual": [
+        "Balance\n$1,000.00",
+        "Win\n$0.00",
+        "Bet\n$2.00"
+      ]
+    },
+    {
+      "name": "mobile-meter-0-source-x",
+      "pass": true,
+      "actual": 74.1,
+      "expected": 74.1,
+      "tolerance": 1
+    },
+    {
+      "name": "mobile-meter-1-source-x",
+      "pass": true,
+      "actual": 195,
+      "expected": 195,
+      "tolerance": 1
+    },
+    {
+      "name": "mobile-meter-2-source-x",
+      "pass": true,
+      "actual": 312,
+      "expected": 312,
+      "tolerance": 1
+    },
+    {
+      "name": "mobile-meters-share-y",
+      "pass": true,
+      "y": [
+        811.295,
+        811.295,
+        811.295
+      ]
+    },
+    {
+      "name": "mobile-board-camera-remains-idle",
+      "pass": true,
+      "boardCamera": {
+        "progress": 0,
+        "scale": 1,
+        "girderScale": 1,
+        "x": 195,
+        "y": 422,
+        "stage": "idle"
+      }
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "exitCode": 0,
+  "finishedAt": "2026-11-15T13:28:53.662Z",
+  "durationMs": 9609
+}

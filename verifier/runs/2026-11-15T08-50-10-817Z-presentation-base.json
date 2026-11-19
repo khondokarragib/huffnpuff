@@ -1,0 +1,19 @@
+{
+  "startedAt": "2026-11-15T08:50:10.817Z",
+  "command": "node verifier/v1/presentation.cjs base",
+  "mode": "base",
+  "checks": {},
+  "assertions": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [
+    {
+      "url": "http://127.0.0.1:4173/?seed=41",
+      "error": "net::ERR_CONNECTION_REFUSED"
+    }
+  ],
+  "error": "page.goto: net::ERR_CONNECTION_REFUSED at http://127.0.0.1:4173/?seed=41\nCall log:\n  - navigating to \"http://127.0.0.1:4173/?seed=41\", waiting until \"networkidle\"\n\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:61:16)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:166:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T08:50:11.510Z",
+  "durationMs": 693
+}

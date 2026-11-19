@@ -1,0 +1,15 @@
+{
+  "startedAt": "2026-11-18T09:41:44.326Z",
+  "finishedAt": "2026-11-18T09:45:03.246Z",
+  "preview": "wolf",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "error": "page.waitForFunction: Timeout 120000ms exceeded.\n    at /mnt/agents/output/app/verifier/v2/sound.cjs:102:16",
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 1
+}

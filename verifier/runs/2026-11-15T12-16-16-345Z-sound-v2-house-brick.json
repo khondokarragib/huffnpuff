@@ -1,0 +1,57 @@
+{
+  "startedAt": "2026-11-15T12:16:16.345Z",
+  "finishedAt": "2026-11-15T12:16:25.678Z",
+  "preview": "house-brick",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "house-appearance-cue": true,
+    "house-blow-cue": true,
+    "house-credit-cue": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 7332.099999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 8184.400000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 8512.800000000047,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 8593.199999999953,
+      "wolfStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

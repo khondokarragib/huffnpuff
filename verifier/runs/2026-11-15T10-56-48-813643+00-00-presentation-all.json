@@ -1,0 +1,13 @@
+{
+  "startedAt": null,
+  "observedAt": "2026-11-15T10:56:48.813643+00:00",
+  "command": "node verifier/v1/presentation.cjs all",
+  "mode": "all",
+  "checks": {},
+  "assertions": [],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "Execution deadline exceeded before the verifier could write its completion record. No game failure is inferred from this interrupted run.",
+  "exitCode": 1
+}

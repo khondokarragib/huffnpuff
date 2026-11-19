@@ -1,0 +1,182 @@
+coin_v02.webp
+size:2048,2048
+filter:Linear,Linear
+coin-side-straight
+bounds:2,2,15,280
+offsets:1,1,17,282
+rotate:90
+wheel/wheel/skeleton-wheel_fire_Orange_00
+bounds:2,1528,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_01
+bounds:2,1025,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_02
+bounds:504,1528,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_03
+bounds:2,522,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_04
+bounds:504,1025,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_05
+bounds:1006,1528,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_06
+bounds:2,19,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_07
+bounds:504,522,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_08
+bounds:1006,1025,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_09
+bounds:1508,1528,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_10
+bounds:504,19,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_11
+bounds:1006,522,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_12
+bounds:1508,1025,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_13
+bounds:1006,19,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_14
+bounds:1508,522,500,501
+wheel/wheel/skeleton-wheel_fire_Orange_15
+bounds:1508,19,500,501
+
+coin_v02_2.webp
+size:2048,1024
+filter:Linear,Linear
+coin-side-round
+bounds:320,232,142,280
+offsets:1,1,144,282
+coin_back
+bounds:814,735,280,280
+offsets:20,20,320,320
+coin_front
+bounds:1096,735,280,280
+offsets:20,20,320,320
+coin_glow
+bounds:2,196,316,316
+offsets:2,2,320,320
+coin_sparkle
+bounds:1660,780,222,235
+offsets:49,42,320,320
+coin_stroke
+bounds:504,707,308,308
+offsets:6,6,320,320
+freespin_counter
+bounds:504,541,247,164
+offsets:14,14,275,192
+freespin_counter_glow
+bounds:2,2,275,192
+mini_jackpot_text
+bounds:605,226,172,138
+offsets:39,0,250,139
+minor_jackpot_text
+bounds:464,262,250,139
+rotate:90
+particle_loop/Comp 1_00032
+bounds:1578,576,154,157
+offsets:25,29,200,200
+particle_loop/Comp 1_00033
+bounds:1576,416,156,158
+offsets:24,28,200,200
+particle_loop/Comp 1_00034
+bounds:779,169,156,159
+offsets:24,27,200,200
+rotate:90
+particle_loop/Comp 1_00035
+bounds:1884,701,157,161
+offsets:24,26,200,200
+rotate:90
+particle_loop/Comp 1_00036
+bounds:1734,371,159,164
+offsets:23,24,200,200
+rotate:90
+particle_loop/Comp 1_00037
+bounds:764,10,157,164
+offsets:25,24,200,200
+rotate:90
+particle_loop/Comp 1_00038
+bounds:779,327,158,166
+offsets:24,23,200,200
+particle_loop/Comp 1_00039
+bounds:435,65,160,165
+offsets:23,22,200,200
+particle_loop/Comp 1_00040
+bounds:767,495,161,166
+offsets:22,22,200,200
+particle_loop/Comp 1_00041
+bounds:1734,532,161,167
+offsets:22,21,200,200
+particle_loop/Comp 1_00042
+bounds:1884,860,162,155
+offsets:21,21,200,200
+particle_loop/Comp 1_00043
+bounds:930,3,164,156
+offsets:20,20,200,200
+rotate:90
+particle_loop/Comp 1_00044
+bounds:597,66,165,158
+offsets:20,20,200,200
+particle_loop/Comp 1_00045
+bounds:1233,420,167,153
+offsets:19,25,200,200
+particle_loop/Comp 1_00046
+bounds:279,26,168,154
+offsets:19,25,200,200
+rotate:90
+particle_loop/Comp 1_00047
+bounds:1406,419,168,156
+offsets:19,24,200,200
+particle_loop/Comp 1_00048
+bounds:1406,577,170,156
+offsets:18,24,200,200
+particle_loop/Comp 1_00049
+bounds:1233,575,171,158
+offsets:17,23,200,200
+particle_loop/Comp 1_00050
+bounds:1059,574,172,159
+offsets:17,23,200,200
+particle_loop/Comp 1_00051
+bounds:605,366,173,160
+offsets:16,22,200,200
+rotate:90
+particle_loop/Comp 1_00052
+bounds:939,411,163,161
+offsets:15,22,200,200
+particle_loop/Comp 1_00053
+bounds:1734,217,160,152
+offsets:15,27,200,200
+particle_loop/Comp 1_00054
+bounds:1248,82,161,152
+offsets:14,27,200,200
+rotate:90
+particle_loop/Comp 1_00055
+bounds:1420,261,156,154
+offsets:20,26,200,200
+rotate:90
+particle_loop/Comp 1_00056
+bounds:1576,257,157,156
+offsets:20,25,200,200
+rotate:90
+particle_loop/Comp 1_00057
+bounds:1402,98,155,158
+offsets:22,24,200,200
+particle_loop/Comp 1_00058
+bounds:1261,258,157,159
+offsets:21,24,200,200
+particle_loop/Comp 1_00059
+bounds:1088,82,158,161
+offsets:21,23,200,200
+particle_loop/Comp 1_00060
+bounds:940,246,160,163
+offsets:20,22,200,200
+particle_loop/Comp 1_00061
+bounds:1102,245,157,164
+offsets:23,22,200,200
+shine
+bounds:814,663,70,243
+offsets:1,1,72,245
+rotate:90
+wheel/wheel/skeleton-wheel_fire_Orange_16
+bounds:2,514,500,501
+wheel_coin_front
+bounds:1378,735,280,280
+offsets:20,20,320,320
+

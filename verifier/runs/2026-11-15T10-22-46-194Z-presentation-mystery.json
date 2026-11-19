@@ -1,0 +1,2007 @@
+{
+  "startedAt": "2026-11-15T10:22:46.194Z",
+  "command": "node verifier/v1/presentation.cjs mystery",
+  "mode": "mystery",
+  "checks": {
+    "mystery": {
+      "active": true,
+      "phase": "flip",
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellCenter": {
+        "x": 475.87147992351817,
+        "y": 475.9222434671766
+      },
+      "revealOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "expectedOrigin": {
+        "x": 517.0302057361376,
+        "y": 515.4979413639261
+      },
+      "drift": 0,
+      "parent": "BoardSymbolEffects",
+      "cellVisible": false,
+      "settledSymbol": 12,
+      "replacementOverlay": false
+    },
+    "mysteryHistory": [
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 475.87147992351817,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 517.0302057361376,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 0,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 636.435739961759,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 677.5944657743786,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 1,
+          "row": 5
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 608.9181261950288
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 648.4938240917783
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 4
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "cellCenter": {
+          "x": 797,
+          "y": 741.914008922881
+        },
+        "revealOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "expectedOrigin": {
+          "x": 838.1587258126195,
+          "y": 781.4897068196304
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 2,
+          "row": 5
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": true,
+        "phase": "flip",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "rolling",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 12,
+        "replacementOverlay": false
+      },
+      {
+        "active": true,
+        "phase": "settled",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "cellCenter": {
+          "x": 957.564260038241,
+          "y": 475.9222434671766
+        },
+        "revealOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "expectedOrigin": {
+          "x": 998.7229858508605,
+          "y": 515.4979413639261
+        },
+        "drift": 0,
+        "parent": "BoardSymbolEffects",
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      },
+      {
+        "active": false,
+        "phase": "cleaned",
+        "position": {
+          "reel": 3,
+          "row": 3
+        },
+        "parent": null,
+        "drift": 0,
+        "cellVisible": false,
+        "settledSymbol": 18,
+        "replacementOverlay": true
+      }
+    ],
+    "mysteryTemporaryObjects": 0,
+    "mysteryCleanup": {
+      "active": false,
+      "phase": "cleaned",
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "parent": null,
+      "drift": 0,
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    }
+  },
+  "assertions": [
+    {
+      "name": "mystery-flip-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-rolling-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-settled-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-cleaned-all-six-cells",
+      "pass": true,
+      "actual": 6,
+      "expected": 6
+    },
+    {
+      "name": "mystery-flip-0-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-0-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-1-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-1-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-2-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-2-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-3-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-3-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-4-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-4-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-5-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-5-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-6-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-6-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-7-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-7-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-8-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-8-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-9-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-9-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-10-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-10-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-11-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-11-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-12-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-12-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-13-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-13-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-14-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-14-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-flip-15-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-flip-15-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-rolling-16-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-rolling-16-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-settled-17-origin-drift",
+      "pass": true,
+      "drift": 0,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "tolerance": 0.5
+    },
+    {
+      "name": "mystery-settled-17-board-parent",
+      "pass": true,
+      "parent": "BoardSymbolEffects"
+    },
+    {
+      "name": "mystery-hidden-originating-cell-0",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-1",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-2",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-3",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-4",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-5",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-6",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-7",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-8",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-9",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-10",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-hidden-originating-cell-11",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      }
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-0",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-1",
+      "pass": true,
+      "position": {
+        "reel": 0,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-2",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-3",
+      "pass": true,
+      "position": {
+        "reel": 1,
+        "row": 5
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-4",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-5",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-6",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-7",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 4
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-8",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-9",
+      "pass": true,
+      "position": {
+        "reel": 2,
+        "row": 5
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-10",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-replacement-owns-originating-cell-11",
+      "pass": true,
+      "position": {
+        "reel": 3,
+        "row": 3
+      },
+      "cellVisible": false,
+      "settledSymbol": 18,
+      "replacementOverlay": true
+    },
+    {
+      "name": "mystery-temporary-objects-cleaned",
+      "pass": true,
+      "remaining": 0
+    },
+    {
+      "name": "mystery-preview-completed",
+      "pass": true
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "snapshot": {
+    "state": "idle",
+    "elapsed": 121.09510000000343,
+    "balance": 1000,
+    "bet": 2,
+    "win": 10.6,
+    "activeRows": 3,
+    "background": {
+      "device": "desktop",
+      "composition": "source-landscape",
+      "sourceVisible": true,
+      "legacyVisible": false,
+      "logicalStage": {
+        "width": 1920,
+        "height": 1920
+      },
+      "visibleCrop": {
+        "x": 0,
+        "y": 420,
+        "width": 1920,
+        "height": 1080
+      },
+      "stage": {
+        "x": 797,
+        "y": 449,
+        "scale": 0.8302083333333333,
+        "pivotX": 960,
+        "pivotY": 960
+      },
+      "container": {
+        "x": 960,
+        "y": 960,
+        "layerOrder": [
+          "SourceSky",
+          "cloud1",
+          "cloud2",
+          "cloud3",
+          "_bgBottom",
+          "bird1",
+          "bird2"
+        ]
+      },
+      "elapsedMs": 3249.8999999999924,
+      "backgroundAtlasPixelRatio": 1,
+      "birdAtlasPixelRatio": 2,
+      "sky": {
+        "label": "SourceSky",
+        "texture": "basegame_bkg_sky:0",
+        "resolution": 1,
+        "x": 0,
+        "y": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.5
+        },
+        "global": {
+          "x": 797,
+          "y": 449
+        },
+        "bounds": {
+          "minX": 0,
+          "minY": -348,
+          "maxX": 1594,
+          "maxY": 1246,
+          "matrix": {
+            "array": null,
+            "a": 1.583027726840576,
+            "b": -0.0007736133491292207,
+            "c": 0.0007736133491292207,
+            "d": 1.583027726840576,
+            "tx": 797.0687613664682,
+            "ty": -434.2015433140558
+          }
+        }
+      },
+      "topArt": {
+        "label": "_bgBottom",
+        "texture": "basegame_bkg_top:1",
+        "resolution": 1,
+        "x": 0,
+        "y": 300,
+        "scaleX": 1,
+        "scaleY": 1,
+        "anchor": {
+          "x": 0.5,
+          "y": 0.477408818726184
+        },
+        "global": {
+          "x": 797,
+          "y": 698.0625
+        },
+        "bounds": {
+          "minX": 0,
+          "minY": -62.9271570495373,
+          "maxX": 1594,
+          "maxY": 1531.0728429504627,
+          "matrix": {
+            "array": null,
+            "a": 1.583027726840576,
+            "b": -0.0007736133491292207,
+            "c": 0.0007736133491292207,
+            "d": 1.583027726840576,
+            "tx": 797.0687613664682,
+            "ty": -434.2015433140558
+          }
+        }
+      },
+      "clouds": [
+        {
+          "label": "cloud1",
+          "texture": "cloud_A:2",
+          "resolution": 1,
+          "x": 2487.5050000000006,
+          "y": -150,
+          "scaleX": -1,
+          "scaleY": 1,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "global": {
+            "x": 2862.1473802083337,
+            "y": 324.46875
+          },
+          "bounds": {
+            "minX": 2719.766651041667,
+            "minY": 254.73125,
+            "maxX": 3004.5281093750004,
+            "maxY": 394.20625,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          },
+          "x1": -1250,
+          "x2": 2500,
+          "duration": 75000,
+          "initialDelay": 3000,
+          "hold": 500
+        },
+        {
+          "label": "cloud2",
+          "texture": "cloud_B:3",
+          "resolution": 1,
+          "x": 2689.7409473684215,
+          "y": 300,
+          "scaleX": -1,
+          "scaleY": 1,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "global": {
+            "x": 3030.045349013158,
+            "y": 698.0625
+          },
+          "bounds": {
+            "minX": 2832.8708698464916,
+            "minY": 591.7958333333333,
+            "maxX": 3227.2198281798246,
+            "maxY": 804.3291666666667,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          },
+          "x1": -1200,
+          "x2": 2700,
+          "duration": 95000,
+          "initialDelay": 3000,
+          "hold": 500
+        },
+        {
+          "label": "cloud3",
+          "texture": "cloud_C:4",
+          "resolution": 1,
+          "x": 2492.60296,
+          "y": -300,
+          "scaleX": -1,
+          "scaleY": 1,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "global": {
+            "x": 2866.3797490833335,
+            "y": 199.9375
+          },
+          "bounds": {
+            "minX": 2559.20266575,
+            "minY": 148.8796875,
+            "maxX": 3173.556832416667,
+            "maxY": 250.9953125,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          },
+          "x1": -1200,
+          "x2": 2500,
+          "duration": 125000,
+          "initialDelay": 3000,
+          "hold": 500
+        }
+      ],
+      "birds": [
+        {
+          "label": "bird1",
+          "texture": "Bird:14",
+          "resolution": 2,
+          "x": 1525.0300000000022,
+          "y": -450,
+          "scaleX": -0.2,
+          "scaleY": 0.3,
+          "anchor": {
+            "x": 0.5694444444444444,
+            "y": 0.5714285714285714
+          },
+          "global": {
+            "x": 2063.0926145833355,
+            "y": 75.40625
+          },
+          "bounds": {
+            "minX": 2055.9435983796316,
+            "minY": 66.15535714285714,
+            "maxX": 2072.5477650462985,
+            "maxY": 82.34441964285715,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          },
+          "duration": 12000,
+          "x1": -1100,
+          "x2": 2500,
+          "initialDelay": 0,
+          "hold": 500,
+          "currentFrame": 14,
+          "animationSpeed": 0.4,
+          "playing": true
+        },
+        {
+          "label": "bird2",
+          "texture": "Bird:14",
+          "resolution": 2,
+          "x": 1768.7725000000019,
+          "y": -250,
+          "scaleX": -0.3,
+          "scaleY": 0.3,
+          "anchor": {
+            "x": 0.5694444444444444,
+            "y": 0.5714285714285714
+          },
+          "global": {
+            "x": 2265.449669270835,
+            "y": 241.44791666666666
+          },
+          "bounds": {
+            "minX": 2254.726144965279,
+            "minY": 232.1970238095238,
+            "maxX": 2279.632394965279,
+            "maxY": 248.3860863095238,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          },
+          "duration": 16000,
+          "x1": -1100,
+          "x2": 2500,
+          "initialDelay": 0,
+          "hold": 500,
+          "currentFrame": 14,
+          "animationSpeed": 0.4,
+          "playing": true
+        }
+      ],
+      "bushes": [
+        {
+          "label": "bottomBushLeft",
+          "texture": null,
+          "resolution": 1,
+          "x": 153.6,
+          "y": 1459.2,
+          "scaleX": 1,
+          "scaleY": 1,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "global": {
+            "x": 127.52,
+            "y": 863.44
+          },
+          "bounds": {
+            "minX": -152.67531250000002,
+            "minY": 740.9842708333334,
+            "maxX": 407.7153125,
+            "maxY": 985.8957291666667,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          }
+        },
+        {
+          "label": "bottomBushRight",
+          "texture": null,
+          "resolution": 1,
+          "x": 1766.4,
+          "y": 1459.2,
+          "scaleX": 1,
+          "scaleY": 1,
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "global": {
+            "x": 1466.48,
+            "y": 863.44
+          },
+          "bounds": {
+            "minX": 1186.2846875,
+            "minY": 740.9842708333334,
+            "maxX": 1746.6753125,
+            "maxY": 985.8957291666667,
+            "matrix": {
+              "array": null,
+              "a": 1.583027726840576,
+              "b": -0.0007736133491292207,
+              "c": 0.0007736133491292207,
+              "d": 1.583027726840576,
+              "tx": 797.0687613664682,
+              "ty": -434.2015433140558
+            }
+          }
+        }
+      ]
+    },
+    "boardCamera": {
+      "progress": 0,
+      "scale": 1,
+      "girderScale": 1,
+      "x": 797,
+      "y": 449,
+      "stage": "idle"
+    },
+    "featureHatStage": "done",
+    "wolfStage": "exit",
+    "ways": 243,
+    "freeSpins": 0,
+    "freeSpinIndex": 6,
+    "featureWin": 10.6,
+    "feature": "base",
+    "scenario": "mystery",
+    "gridMatchesOutcome": true,
+    "actualGridMatchesOutcome": true,
+    "framesMatchOutcome": true,
+    "visibleFramesMatchOutcome": true,
+    "autoplayRemaining": 0,
+    "winResult": {
+      "visible": false,
+      "text": "1 WAY PAY\n$0.10"
+    },
+    "paytableValues": [],
+    "paytableView": null,
+    "controls": {
+      "auto": true,
+      "turbo": true,
+      "plus": true,
+      "minus": true,
+      "buy": true,
+      "spin": true
+    },
+    "event": {
+      "type": null,
+      "thrown": 0,
+      "thrownSymbols": [],
+      "specials": 0,
+      "hats": 0,
+      "extraSpin": false,
+      "sawActions": [],
+      "superSawActions": 0,
+      "superSawStage": null,
+      "sawStage": null
+    },
+    "overlays": 0,
+    "frames": 0,
+    "frameLevels": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "birds": [
+      {
+        "x": 149.02488000024817,
+        "y": 121.50743510818455,
+        "width": 54.196,
+        "direction": 1,
+        "speed": 72,
+        "playing": true
+      },
+      {
+        "x": 993.2950999998145,
+        "y": 213.1642067637911,
+        "width": 39.85,
+        "direction": -1,
+        "speed": 54,
+        "playing": true
+      },
+      {
+        "x": 267.8465000003121,
+        "y": 269.8894054912647,
+        "width": 31.879999999999995,
+        "direction": 1,
+        "speed": 91,
+        "playing": true
+      },
+      {
+        "x": 261.33939999977997,
+        "y": 82.75983526252398,
+        "width": 47.82,
+        "direction": -1,
+        "speed": 64,
+        "playing": true
+      }
+    ],
+    "characters": [
+      {
+        "animation": "breathing_with_looking_left_and_right",
+        "trackTime": 0.15000000000000002,
+        "duration": 7.3333001136779785,
+        "timeScale": 1,
+        "stateTimeScale": 1,
+        "visible": true,
+        "x": 666.8112978091103,
+        "y": 266.35204891420227,
+        "scale": 0.6332111663479925,
+        "bounds": {
+          "minX": 594.0964194436431,
+          "minY": 76.99419737442386,
+          "maxX": 862.271558666735,
+          "maxY": 329.1597381441731,
+          "matrix": {
+            "array": null,
+            "a": 1.583027726840576,
+            "b": -0.0007736133491292207,
+            "c": 0.0007736133491292207,
+            "d": 1.583027726840576,
+            "tx": 797.0687613664682,
+            "ty": -434.2015433140558
+          }
+        }
+      },
+      {
+        "animation": "napping",
+        "trackTime": 0.15000000000000002,
+        "duration": 2.6666998863220215,
+        "timeScale": 1,
+        "stateTimeScale": 1,
+        "visible": true,
+        "x": 829.0646772901272,
+        "y": 252.02550400435132,
+        "scale": 0.6332111663479925,
+        "bounds": {
+          "minX": 756.2119627784472,
+          "minY": 64.06059002407824,
+          "maxX": 900.1093276137464,
+          "maxY": 256.9313140051001,
+          "matrix": {
+            "array": null,
+            "a": 1.583027726840576,
+            "b": -0.0007736133491292207,
+            "c": 0.0007736133491292207,
+            "d": 1.583027726840576,
+            "tx": 797.0687613664682,
+            "ty": -434.2015433140558
+          }
+        }
+      },
+      {
+        "animation": "hand_on_stomach",
+        "trackTime": 0.15000000000000002,
+        "duration": 2,
+        "timeScale": 1,
+        "stateTimeScale": 1,
+        "visible": true,
+        "x": 959.6598230743799,
+        "y": 242.4635145420047,
+        "scale": 0.6332111663479925,
+        "bounds": {
+          "minX": 915.5314715563624,
+          "minY": 136.29966483323244,
+          "maxX": 1007.0607388855564,
+          "maxY": 243.05616575955642,
+          "matrix": {
+            "array": null,
+            "a": 1.583027726840576,
+            "b": -0.0007736133491292207,
+            "c": 0.0007736133491292207,
+            "d": 1.583027726840576,
+            "tx": 797.0687613664682,
+            "ty": -434.2015433140558
+          }
+        }
+      }
+    ],
+    "girder": {
+      "billboard": {
+        "visible": false,
+        "position": {
+          "x": 182.64583333333334,
+          "y": 656.5520833333334
+        },
+        "bounds": {
+          "minX": 0,
+          "minY": 0,
+          "maxX": 0,
+          "maxY": 0,
+          "matrix": {
+            "array": null,
+            "a": 1,
+            "b": 0,
+            "c": 0,
+            "d": 1,
+            "tx": 0,
+            "ty": 0
+          }
+        },
+        "scale": 1.0460625
+      },
+      "beam": {
+        "x": 797.4161137602272,
+        "y": 276.5779060373628
+      },
+      "beamBounds": {
+        "minX": 502.5530242190096,
+        "minY": 226.9642040873195,
+        "maxX": 1092.2792033014448,
+        "maxY": 326.19160798740614,
+        "matrix": {
+          "array": null,
+          "a": 1.583027726840576,
+          "b": -0.0007736133491292207,
+          "c": 0.0007736133491292207,
+          "d": 1.583027726840576,
+          "tx": 797.0687613664682,
+          "ty": -434.2015433140558
+        }
+      },
+      "ropes": {
+        "x": 797.0687613664682,
+        "y": -434.2015433140558
+      },
+      "ropesBounds": {
+        "minX": 556.0903639060538,
+        "minY": -1167.2609700703101,
+        "maxX": 1038.0471588268824,
+        "maxY": 298.8578834421985,
+        "matrix": {
+          "array": null,
+          "a": 1.583027726840576,
+          "b": -0.0007736133491292207,
+          "c": 0.0007736133491292207,
+          "d": 1.583027726840576,
+          "tx": 797.0687613664682,
+          "ty": -434.2015433140558
+        }
+      }
+    },
+    "reels": {
+      "x": 374.59,
+      "y": -38.023384321223716,
+      "width": 844.82,
+      "height": 974.0467686424474,
+      "mask": {
+        "x": 0,
+        "y": 0
+      },
+      "columns": [
+        {
+          "offset": 0,
+          "cellH": 132.99588272785215,
+          "cellW": 160.56426003824092,
+          "containerY": 48.46003824091778,
+          "sprites": [
+            {
+              "y": -68.9916141650733,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 60.24599815877043,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 198.03233087498867,
+              "h": 197.30158426659384,
+              "visible": true
+            },
+            {
+              "y": 332.4897068196302,
+              "h": 132.99588272785215,
+              "visible": true
+            },
+            {
+              "y": 460.7663808055266,
+              "h": 231.67024733238762,
+              "visible": true
+            },
+            {
+              "y": 595.9877994741873,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 728.9836822020397,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 858.3263692016004,
+              "h": 263.75654053590847,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "offset": 0,
+          "cellH": 132.99588272785215,
+          "cellW": 160.56426003824092,
+          "containerY": 48.46003824091778,
+          "sprites": [
+            {
+              "y": -68.9916141650733,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 59.70157056865642,
+              "h": 229.37751434034416,
+              "visible": true
+            },
+            {
+              "y": 193.7612429397157,
+              "h": 270.57783037735436,
+              "visible": true
+            },
+            {
+              "y": 325.69333602436075,
+              "h": 229.37751434034416,
+              "visible": true
+            },
+            {
+              "y": 458.68921875221315,
+              "h": 229.37751434034416,
+              "visible": true
+            },
+            {
+              "y": 592.2295290701791,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 728.9836822020397,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 861.9795649298917,
+              "h": 224.4305521032505,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "offset": 0,
+          "cellH": 132.99588272785215,
+          "cellW": 160.56426003824092,
+          "containerY": 48.46003824091778,
+          "sprites": [
+            {
+              "y": -72.64480989336462,
+              "h": 263.75654053590847,
+              "visible": true
+            },
+            {
+              "y": 60.24599815877043,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 197.00015129063104,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 326.90591021655246,
+              "h": 239.5956360593367,
+              "visible": true
+            },
+            {
+              "y": 459.2336463423272,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 592.2295290701791,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 725.3304864737485,
+              "h": 263.75654053590847,
+              "visible": true
+            },
+            {
+              "y": 858.2212945258834,
+              "h": 268.26519934848807,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "offset": 0,
+          "cellH": 132.99588272785215,
+          "cellW": 160.56426003824092,
+          "containerY": 48.46003824091778,
+          "sprites": [
+            {
+              "y": -72.74988456908152,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 64.00426856277865,
+              "h": 224.4305521032505,
+              "visible": true
+            },
+            {
+              "y": 193.24188088662282,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 326.2377636144748,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 460.7663808055266,
+              "h": 231.67024733238762,
+              "visible": true
+            },
+            {
+              "y": 592.3346037458961,
+              "h": 263.75654053590847,
+              "visible": true
+            },
+            {
+              "y": 725.2254117980315,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 858.2212945258834,
+              "h": 268.26519934848807,
+              "visible": true
+            }
+          ]
+        },
+        {
+          "offset": 0,
+          "cellH": 132.99588272785215,
+          "cellW": 160.56426003824092,
+          "containerY": 48.46003824091778,
+          "sprites": [
+            {
+              "y": -67.95943458071565,
+              "h": 197.30158426659384,
+              "visible": true
+            },
+            {
+              "y": 60.24599815877043,
+              "h": 268.26519934848807,
+              "visible": true
+            },
+            {
+              "y": 193.7612429397157,
+              "h": 270.57783037735436,
+              "visible": true
+            },
+            {
+              "y": 331.62609719152726,
+              "h": 233.17459958779273,
+              "visible": true
+            },
+            {
+              "y": 459.75300839542,
+              "h": 270.57783037735436,
+              "visible": true
+            },
+            {
+              "y": 597.6178626472316,
+              "h": 233.17459958779273,
+              "visible": true
+            },
+            {
+              "y": 730.0158617863974,
+              "h": 197.30158426659384,
+              "visible": true
+            },
+            {
+              "y": 863.0117445142494,
+              "h": 197.30158426659384,
+              "visible": true
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "exitCode": 0,
+  "finishedAt": "2026-11-15T10:24:58.554Z",
+  "durationMs": 132360
+}

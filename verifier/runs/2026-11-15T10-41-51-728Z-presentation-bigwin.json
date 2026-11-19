@@ -1,0 +1,16 @@
+{
+  "startedAt": "2026-11-15T10:41:51.728Z",
+  "command": "node verifier/v1/presentation.cjs bigwin",
+  "mode": "bigwin",
+  "checks": {},
+  "assertions": [],
+  "consoleErrors": [
+    "ReferenceError: screenBounds is not defined\n    at SlotGame.showNativeBigWin (http://127.0.0.1:4173/src/game/slotGame.js:2260:23)\n    at async http://127.0.0.1:4173/src/game/statePreview.js:407:7\n    at async StatePreview.presentation (http://127.0.0.1:4173/src/game/statePreview.js:294:7)\n    at async StatePreview.showBigWin (http://127.0.0.1:4173/src/game/statePreview.js:398:5)\n    at async StatePreview.run (http://127.0.0.1:4173/src/game/statePreview.js:198:7)"
+  ],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "page.waitForFunction: Timeout 120000ms exceeded.\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:171:18)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:256:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T10:43:58.750Z",
+  "durationMs": 127022
+}

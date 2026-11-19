@@ -1,0 +1,78 @@
+{
+  "startedAt": "2026-11-15T13:27:36.630Z",
+  "command": "node verifier/v3/footer.cjs desktop",
+  "mode": "desktop",
+  "checks": {
+    "footer": {
+      "viewport": {
+        "width": 1594,
+        "height": 898
+      },
+      "balance": {
+        "text": "Balance\n$1,000.00",
+        "position": {
+          "x": 223.16000000000003,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 173.22396484375003,
+          "y": 838.223,
+          "width": 99.8720703125,
+          "height": 54
+        },
+        "fontSize": 22
+      },
+      "win": {
+        "text": "Win\n$0.00",
+        "position": {
+          "x": 797,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 768.47314453125,
+          "y": 838.223,
+          "width": 57.0537109375,
+          "height": 54
+        },
+        "fontSize": 22
+      },
+      "bet": {
+        "text": "Bet\n$2.00",
+        "position": {
+          "x": 1307.08,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 1278.55314453125,
+          "y": 838.223,
+          "width": 57.0537109375,
+          "height": 54
+        },
+        "fontSize": 22
+      },
+      "boardCamera": {
+        "progress": 0,
+        "scale": 1,
+        "girderScale": 1,
+        "x": 797,
+        "y": 449,
+        "stage": "idle"
+      }
+    }
+  },
+  "assertions": [
+    {
+      "name": "desktop-balance-exact-text",
+      "pass": false,
+      "actual": "Balance\n$1,000.00",
+      "expected": "Balance $1,000.00"
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "Error: Acceptance check failed: desktop-balance-exact-text\n    at assertCheck (/mnt/agents/output/app/verifier/v3/footer.cjs:27:20)\n    at run (/mnt/agents/output/app/verifier/v3/footer.cjs:87:5)\n    at async /mnt/agents/output/app/verifier/v3/footer.cjs:105:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T13:27:58.548Z",
+  "durationMs": 21918
+}

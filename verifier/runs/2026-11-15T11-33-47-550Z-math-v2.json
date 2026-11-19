@@ -1,0 +1,66 @@
+{
+  "startedAt": "2026-11-15T11:33:27.454Z",
+  "finishedAt": "2026-11-15T11:33:47.484Z",
+  "command": "node verifier/v2/math.cjs 5000000",
+  "status": "fail",
+  "model": "user-requested local virtual-demo variant; not recovered original server mathematics",
+  "configuredTargetPercent": [
+    92,
+    93
+  ],
+  "suppliedRulesPublishedRtpPercent": 96,
+  "sample": {
+    "paidBaseRounds": 5000000,
+    "bet": 2,
+    "wager": 10000000,
+    "normal": 53786,
+    "super": 2909,
+    "girderEntries": 50614,
+    "freeSpins": 397310
+  },
+  "measuredRtpPercent": 93.16760599994291,
+  "meanReturnPerBet": 0.9316760599999012,
+  "sampleStandardDeviationPerBet": 15.581903508674557,
+  "standardErrorPercent": 0.6968439092847759,
+  "normalApproximationCi95Percent": [
+    91.80179193774475,
+    94.53342006214106
+  ],
+  "contributionsPercent": {
+    "baseWays": 9.296492999942902,
+    "baseFrames": 0,
+    "featureWays": 1.4632930000000024,
+    "featureFrames": 0.001,
+    "houses": 82.40682,
+    "jackpots": 9.2116
+  },
+  "jackpotCounts": {
+    "GRAND": 23,
+    "MAJOR": 114,
+    "MINOR": 664,
+    "MINI X2": 1804,
+    "MINI": 4651
+  },
+  "checks": {
+    "measured-local-rtp-within-92-93": false,
+    "no-undocumented-ordinary-brick-awards": true,
+    "same-seed-reproduces-local-demo-outcome": true,
+    "girder-preserves-landed-hats-and-supplies-difference": true,
+    "triggering-saws-have-entry-frame-actions": true,
+    "missing-jack-ten-three-symbol-values-not-invented": true
+  },
+  "probabilities": {
+    "featureBelow": 0.0012,
+    "superBelow": 0.0018,
+    "girderFeature": 0.00995,
+    "baseHazard": 0.037,
+    "baseHats": 0.14,
+    "featureHats": 0.3
+  },
+  "evidenceGaps": [
+    "Original server reel strips, weights, feature frequencies and house-prize probabilities were not supplied.",
+    "Three-symbol Jack and Ten awards are absent from the supplied visible paytable evidence and remain unpaid rather than invented.",
+    "The confidence interval is a simulation uncertainty estimate, not a certification or proof of theoretical RTP.",
+    "The local seeded adapter is browser-side and is not server-authoritative or provably fair."
+  ]
+}

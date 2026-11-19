@@ -1,0 +1,97 @@
+{
+  "startedAt": "2026-11-15T12:17:12.113Z",
+  "finishedAt": "2026-11-15T12:17:56.255Z",
+  "preview": "bigwin-max",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "sequential-bigwin-tier-cues": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 7338.599999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 7660.099999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 7981.199999999953,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 8817,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 8946.599999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier4.webm",
+      "at": 9107.199999999953,
+      "wolfStage": null,
+      "bigwinStage": "intro",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier5.webm",
+      "at": 16515.599999999977,
+      "wolfStage": null,
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier6.webm",
+      "at": 24568.599999999977,
+      "wolfStage": null,
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier7.webm",
+      "at": 33895,
+      "wolfStage": null,
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 0
+}

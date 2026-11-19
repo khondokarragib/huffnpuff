@@ -1,0 +1,149 @@
+{
+  "startedAt": "2026-11-18T08:59:14.382Z",
+  "finishedAt": "2026-11-18T08:59:23.730Z",
+  "command": "node verifier/v2/math.cjs 250000 250000",
+  "status": "fail",
+  "model": "user-requested local virtual-demo variant; not recovered original server mathematics",
+  "configuredTargetPercent": [
+    92,
+    93
+  ],
+  "suppliedRulesPublishedRtpPercent": 96,
+  "ordinary": {
+    "sample": {
+      "rounds": 250000,
+      "bet": 2,
+      "cost": 2,
+      "wager": 500000,
+      "normal": 1876,
+      "super": 504,
+      "girderEntries": 1342,
+      "freeSpins": 16638
+    },
+    "measuredRtpPercent": 85.72102600000854,
+    "meanReturnPerCost": 0.8572102600001923,
+    "sampleStandardDeviationPerCost": 7.257303830374891,
+    "standardErrorPercent": 1.451460766074978,
+    "normalApproximationCi95Percent": [
+      82.87616289850158,
+      88.5658891015155
+    ],
+    "contributionsPercent": {
+      "baseWays": 44.301240000008605,
+      "baseFrames": 0,
+      "featureWays": 11.543679999999911,
+      "featureFrames": 0,
+      "houses": 29.876106000000018,
+      "jackpots": 2.872319999999998
+    },
+    "jackpotCounts": {
+      "GRAND": 0,
+      "MAJOR": 4,
+      "MINOR": 10,
+      "MINI X2": 28,
+      "MINI": 46
+    },
+    "invalidBrickAwards": 0,
+    "featureMismatches": 0
+  },
+  "buyPass": {
+    "sample": {
+      "rounds": 250000,
+      "bet": 2,
+      "cost": 100,
+      "wager": 25000000,
+      "normal": 187461,
+      "super": 62539,
+      "girderEntries": 62539,
+      "freeSpins": 1740594
+    },
+    "measuredRtpPercent": 89.05581336003472,
+    "meanReturnPerCost": 0.890558133599988,
+    "sampleStandardDeviationPerCost": 1.4557195043895512,
+    "standardErrorPercent": 0.29114390087791026,
+    "normalApproximationCi95Percent": [
+      88.48517131431402,
+      89.62645540575542
+    ],
+    "contributionsPercent": {
+      "baseWays": 0.6837472000000543,
+      "baseFrames": 0,
+      "featureWays": 23.938234800034362,
+      "featureFrames": 0.00128,
+      "houses": 64.4325513600003,
+      "jackpots": 4.9810272000006135
+    },
+    "jackpotCounts": {
+      "GRAND": 32,
+      "MAJOR": 151,
+      "MINOR": 912,
+      "MINI X2": 2279,
+      "MINI": 5853
+    },
+    "invalidBrickAwards": 0,
+    "featureMismatches": 0,
+    "selection": {
+      "normal": 0.75,
+      "super": 0.25
+    },
+    "includes": "50x-bet charge, triggering-spin ways and frame credits, all Free Spins, retriggers, houses and jackpots"
+  },
+  "sample": {
+    "paidBaseRounds": 250000,
+    "bet": 2,
+    "wager": 500000,
+    "normal": 1876,
+    "super": 504,
+    "girderEntries": 1342,
+    "freeSpins": 16638
+  },
+  "measuredRtpPercent": 85.72102600000854,
+  "meanReturnPerBet": 0.8572102600001923,
+  "sampleStandardDeviationPerBet": 7.257303830374891,
+  "standardErrorPercent": 1.451460766074978,
+  "normalApproximationCi95Percent": [
+    82.87616289850158,
+    88.5658891015155
+  ],
+  "contributionsPercent": {
+    "baseWays": 44.301240000008605,
+    "baseFrames": 0,
+    "featureWays": 11.543679999999911,
+    "featureFrames": 0,
+    "houses": 29.876106000000018,
+    "jackpots": 2.872319999999998
+  },
+  "jackpotCounts": {
+    "GRAND": 0,
+    "MAJOR": 4,
+    "MINOR": 10,
+    "MINI X2": 28,
+    "MINI": 46
+  },
+  "checks": {
+    "measured-local-rtp-within-92-93": false,
+    "measured-buy-pass-rtp-within-92-93": false,
+    "buy-pass-charges-50-times-bet": true,
+    "buy-pass-selection-matches-triggered-feature": true,
+    "no-undocumented-ordinary-brick-awards": true,
+    "same-seed-reproduces-local-demo-outcome": true,
+    "girder-preserves-landed-hats-and-supplies-difference": true,
+    "triggering-saws-have-entry-frame-actions": true,
+    "missing-jack-ten-three-symbol-values-not-invented": true
+  },
+  "probabilities": {
+    "featureBelow": 0.004,
+    "superBelow": 0.002,
+    "girderFeature": 0.0035,
+    "baseHazard": 0.03,
+    "baseHats": 0.14,
+    "featureHats": 0.35,
+    "housePrizeScale": 1.02
+  },
+  "evidenceGaps": [
+    "Original server reel strips, weights, feature frequencies and house-prize probabilities were not supplied.",
+    "Three-symbol Jack and Ten awards are absent from the supplied visible paytable evidence and remain unpaid rather than invented.",
+    "The confidence interval is a simulation uncertainty estimate, not a certification or proof of theoretical RTP.",
+    "The local seeded adapter is browser-side and is not server-authoritative or provably fair."
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "startedAt": "2026-11-15T12:11:17.021Z",
+  "finishedAt": "2026-11-15T12:12:43.940Z",
+  "preview": "wolf",
+  "inventory": {
+    "suppliedCount": 99,
+    "mappedCount": 99,
+    "unmapped": [],
+    "missingMappings": []
+  },
+  "checks": {
+    "all-99-supplied-sounds-have-local-mappings": true,
+    "source-arrival-cue-plays": true,
+    "unused-jumpdown-variant-not-forced": true,
+    "wolf-music-starts-after-arrival-ended": false,
+    "all-three-source-blow-cues-play": true,
+    "resolution-cue-plays": true,
+    "no-browser-errors": true,
+    "no-failed-requests": true
+  },
+  "events": [
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 14436.099999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 14764.599999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 15092.099999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 15427.900000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 15760.099999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 15910.800000000047,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 16105.20000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 16199,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 16438.20000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 16534.800000000047,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 16775.400000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 16863.599999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 17118.599999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_appears.webm",
+      "at": 17186.099999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 17389.20000000007,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 17455.900000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 17727.5,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 17793.900000000023,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 18049.599999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 18119.5,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 18384.099999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 18454.599999999977,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_appears.webm",
+      "at": 18723.599999999977,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 18796,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 19074.800000000047,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 19125.5,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 19441.70000000007,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 19729.70000000007,
+      "wolfStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 20061.400000000023,
+      "wolfStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_jumpdown_complete.webm",
+      "at": 20316.70000000007,
+      "wolfStage": null,
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_appears.webm",
+      "at": 20402.800000000047,
+      "wolfStage": "arrival"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowstraw_updated_2.webm",
+      "at": 22407.5,
+      "wolfStage": "hold",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 24990,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 25333.300000000047,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 25333.5,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 25673,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 25673.20000000007,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 25980,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 25980.300000000047,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 26313.5,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 26313.800000000047,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 26669.5,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 27127.5,
+      "wolfStage": "blow-1"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 27461.400000000023,
+      "wolfStage": "blow-1"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowstick_updated_2.webm",
+      "at": 27719.900000000023,
+      "wolfStage": "blow-1",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 27720.20000000007,
+      "wolfStage": "blow-2-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowstraw_updated_2.webm",
+      "at": 27773.400000000023,
+      "wolfStage": "blow-2-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 28058.20000000007,
+      "wolfStage": "blow-2-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhouse_creditprize_reveal.webm",
+      "at": 28398.70000000007,
+      "wolfStage": "blow-2-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 29744.099999999977,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 30120.5,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 30418.300000000047,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 30710.20000000007,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_strawhousereveal_creditprize.webm",
+      "at": 31038.099999999977,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 31097.599999999977,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 31441,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 31441.20000000007,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 31785.800000000047,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 31786.099999999977,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 32132.599999999977,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 32132.800000000047,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 32483.20000000007,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 32483.5,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 32828,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowstick_updated_2.webm",
+      "at": 32934.90000000002,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 33216.70000000007,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 33554,
+      "wolfStage": "blow-2"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_blowbrick_updated_2.webm",
+      "at": 33875.40000000002,
+      "wolfStage": "blow-2",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 33875.70000000007,
+      "wolfStage": "blow-3-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 34227,
+      "wolfStage": "blow-3-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhouse_creditprize_quickreveal.webm",
+      "at": 34551.09999999998,
+      "wolfStage": "blow-3-in"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 36361.70000000007,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 36714.80000000005,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 37020.30000000005,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 37179.80000000005,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 37381.30000000005,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 37517.90000000002,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 37518,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_stickhousereveal_creditprize.webm",
+      "at": 37749.30000000005,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "play",
+      "file": "fx_bigwheel_land_credits.webm",
+      "at": 37851.90000000002,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 37854.20000000007,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 38184.80000000005,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 38185.20000000007,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 38535.70000000007,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 38536,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 38886.09999999998,
+      "wolfStage": "blow-3",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 39277.5,
+      "wolfStage": "blow-3"
+    },
+    {
+      "type": "play",
+      "file": "fx_wolffeature_resolution.webm",
+      "at": 39895.5,
+      "wolfStage": "exit",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 39943.20000000007,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_bigwheel_land_credits.webm",
+      "at": 40132.80000000005,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_blowbrick_updated_2.webm",
+      "at": 40178.5,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 40272.09999999998,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhouse_creditprize_quickreveal.webm",
+      "at": 40613.09999999998,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "play",
+      "file": "fx_freegames_banner.webm",
+      "at": 41892.59999999998,
+      "wolfStage": "exit",
+      "bigwinStage": null,
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "ended",
+      "file": "fx_wolffeature_resolution.webm",
+      "at": 43111,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 43479,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 43802.90000000002,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 44118,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 44453.70000000007,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_brickhousereveal_bonusprize.webm",
+      "at": 44790.40000000002,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "ended",
+      "file": "fx_freegames_banner.webm",
+      "at": 45294.80000000005,
+      "wolfStage": "exit"
+    },
+    {
+      "type": "play",
+      "file": "bw_tier4.webm",
+      "at": 48209,
+      "wolfStage": "exit",
+      "bigwinStage": "intro",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier5.webm",
+      "at": 55602.59999999998,
+      "wolfStage": "exit",
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier6.webm",
+      "at": 63669.30000000005,
+      "wolfStage": "exit",
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    },
+    {
+      "type": "play",
+      "file": "bw_tier7.webm",
+      "at": 73021.40000000002,
+      "wolfStage": "exit",
+      "bigwinStage": "hold",
+      "sawStage": null,
+      "rowStage": null
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "exitCode": 1
+}

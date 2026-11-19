@@ -1,0 +1,128 @@
+{
+  "startedAt": "2026-11-15T13:28:31.818Z",
+  "command": "node verifier/v3/footer.cjs desktop",
+  "mode": "desktop",
+  "checks": {
+    "footer": {
+      "viewport": {
+        "width": 1594,
+        "height": 898
+      },
+      "balance": {
+        "text": "Balance $1,000.00",
+        "position": {
+          "x": 318.8,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 223.61787109375,
+          "y": 851.223,
+          "width": 190.3642578125,
+          "height": 28
+        },
+        "fontSize": 22
+      },
+      "win": {
+        "text": "Win",
+        "position": {
+          "x": 797,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 775.93896484375,
+          "y": 851.223,
+          "width": 42.1220703125,
+          "height": 28
+        },
+        "fontSize": 22
+      },
+      "bet": {
+        "text": "Bet $2.00",
+        "position": {
+          "x": 1275.2,
+          "y": 865.223
+        },
+        "bounds": {
+          "x": 1225.8923828125,
+          "y": 851.223,
+          "width": 98.615234375,
+          "height": 28
+        },
+        "fontSize": 22
+      },
+      "boardCamera": {
+        "progress": 0,
+        "scale": 1,
+        "girderScale": 1,
+        "x": 797,
+        "y": 449,
+        "stage": "idle"
+      }
+    }
+  },
+  "assertions": [
+    {
+      "name": "desktop-balance-exact-text",
+      "pass": true,
+      "actual": "Balance $1,000.00",
+      "expected": "Balance $1,000.00"
+    },
+    {
+      "name": "desktop-win-exact-text",
+      "pass": true,
+      "actual": "Win",
+      "expected": "Win"
+    },
+    {
+      "name": "desktop-bet-exact-text",
+      "pass": true,
+      "actual": "Bet $2.00",
+      "expected": "Bet $2.00"
+    },
+    {
+      "name": "desktop-desktop-line-composition",
+      "pass": true,
+      "actual": [
+        "Balance $1,000.00",
+        "Win",
+        "Bet $2.00"
+      ]
+    },
+    {
+      "name": "desktop-meter-0-source-x",
+      "pass": true,
+      "actual": 318.8,
+      "expected": 318.8,
+      "tolerance": 1
+    },
+    {
+      "name": "desktop-meter-1-source-x",
+      "pass": true,
+      "actual": 797,
+      "expected": 797,
+      "tolerance": 1
+    },
+    {
+      "name": "desktop-meter-2-source-x",
+      "pass": true,
+      "actual": 1275.2,
+      "expected": 1275.2,
+      "tolerance": 1
+    },
+    {
+      "name": "desktop-meters-share-y",
+      "pass": true,
+      "y": [
+        865.223,
+        865.223,
+        865.223
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "exitCode": 0,
+  "finishedAt": "2026-11-15T13:28:38.879Z",
+  "durationMs": 7061
+}

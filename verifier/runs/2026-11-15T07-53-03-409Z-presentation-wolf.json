@@ -1,0 +1,13 @@
+{
+  "startedAt": "2026-11-15T07:53:03.409Z",
+  "command": "node verifier/v1/presentation.cjs wolf",
+  "mode": "wolf",
+  "checks": {},
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": [],
+  "error": "page.waitForFunction: Timeout 180000ms exceeded.\n    at run (/mnt/agents/output/app/verifier/v1/presentation.cjs:95:18)\n    at async /mnt/agents/output/app/verifier/v1/presentation.cjs:108:5",
+  "exitCode": 1,
+  "finishedAt": "2026-11-15T07:57:21.484Z",
+  "durationMs": 258075
+}
